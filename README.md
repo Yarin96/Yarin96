@@ -5,11 +5,10 @@
 </div>
 
 <h2 align="center">
-  <p>Greetings fellow coders</p>
+  <p>Greetings fellow coders!</p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-<h3 align="center">My name is Yarin Bar, and welcome to my GitHub Page!</h3>
-<h3 align="center">~ Feel free to take a look on my recent projects ~</h3>
+<h3 align="center">Feel free to take a look on my recent projects</h3>
  
 ## 🙋‍♂️ About Me
  
