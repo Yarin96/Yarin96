@@ -13,7 +13,7 @@
  
 ## 🙋‍♂️ About Me
  
-- 🎓 I’m currently 2nd year Computer Science student.
+- 🎓 Currently a 2nd year Computer Science student.
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
