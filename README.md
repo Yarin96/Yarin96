@@ -6,8 +6,10 @@
 
 <h2 align="center">
   <p>Greetings fellow coders!</p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
 </h2>
+
+
 <h3 align="center">Feel free to take a look on my recent projects</h3>
  
 ## 🙋‍♂️ About Me
