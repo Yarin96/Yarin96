@@ -10,7 +10,7 @@
 </h2>
 
 
-<h3 align="center">Feel free to take a look on my recent projects</h3>
+<h3 align="center">Feel free to take a look at my recent projects</h3>
  
 ## 🙋‍♂️ About Me
  
