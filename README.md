@@ -32,7 +32,8 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
         <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="45" height="45"/> </a>   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="45" height="45"/> </a> 
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
     <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  </a> 
  </a>
