@@ -5,7 +5,7 @@
 
 ### 🙋‍♂️ About Me:
 
-- 🎓 3rd Year Computer Science Studet.
+- 🎓 3rd Year Computer Science Student.
 
 - 💯 Highly motivated person with emphasis to web development and software engineering.
 
