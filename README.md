@@ -45,8 +45,8 @@ through the social networks:
 
 <p align="center">
 <a href="https://github.com/Yarin96">
-  <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yarin96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yarin96&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yarin96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yarin96&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
