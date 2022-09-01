@@ -1,47 +1,48 @@
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150" alt="Super Mario Coder"/>
-</div>
-
-<h2 align="center">
-  <p>Greetings fellow coders!</p>
+<h2 align="left">
+  Thank you for visiting my GitHub Page! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
 </h2>
 
+### 🙋‍♂️ About Me:
 
-<h3 align="center">Feel free to take a look at my recent projects</h3>
- 
-## 🙋‍♂️ About Me
- 
-- 🎓 Currently a 3rd Year Computer Science student.
- 
-- 💪 Ambitious, self-motivated, hardworking person and a great team player.
- 
-- 📫 You can reach me at: **yarin0008@gmail.com** 
- 
-## 🚀 Languages and Tools:
+- 🎓 3rd Year Computer Science Studet.
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-    <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  </a> 
- </a>
- </a>
+- 💯 Highly motivated person with emphasis to web development and software engineering.
+
+- 🧠 A "can-do" mindset, autodidact, hard learner of new and unfamiliar subjects and fields.
+
+- 👋 Above all - a friendly, responsible and creative team worker.
+ 
+---
+
+### 📬 Feel free to contact me:
+
+<p>
+Feel free to connect through this profile, via email or
+through the social networks:
 </p>
 
-## Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yarin-bar-725a6120a/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Badge"/>
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/yarin-bar-725a6120a/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:yarin0008@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+
+---
+
+### 🖥️ Languages and Tools:
+
+| Property                     | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Programming Languages        | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=C&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)                                                                                                       |
+| Frontend Development         | ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                     |
+| Backend Developing           | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Databases                    | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| IDEAs:                       | ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge) ![EclipsIDE](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+---
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150" alt="Super Mario Coder"/>
 </div>
