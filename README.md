@@ -11,7 +11,7 @@
 
 - 🧠 A "can-do" mindset, autodidact, hard learner of new and unfamiliar subjects and fields.
 
-- 👋 Above all - a friendly, responsible and creative team worker.
+- 👋 Above all - a friendly, responsible and creative team player.
  
 ---
 
