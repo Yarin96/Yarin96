@@ -43,7 +43,7 @@ through the social networks:
 
 ---
 
-### 🏅 GitHub States:
+### 🏅 GitHub Stats:
 
 <p align="center">
 <a href="https://github.com/Yarin96">
