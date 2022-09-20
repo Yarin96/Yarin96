@@ -55,7 +55,7 @@ through the social networks:
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yarin96" alt="Yarin96" />
+  <br/>
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150" alt="Super Mario Coder"/>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Yarin96" alt="Vl4d1s" />
 </div>
