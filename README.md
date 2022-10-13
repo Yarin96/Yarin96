@@ -43,7 +43,7 @@ through the social networks:
 
 ---
 
-### 🏅 GitHub Stats:
+### 🏅 GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/Yarin96">
