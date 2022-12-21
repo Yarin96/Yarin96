@@ -24,7 +24,7 @@ through the social networks:
 
 <p>
   <a href="https://www.linkedin.com/in/yarin-bar-725a6120a/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:yarin0008@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:yarinbar7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 
