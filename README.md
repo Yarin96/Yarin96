@@ -4,6 +4,7 @@
   </h2>
 </div>
 
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="450" height="260" />
 
 ### 🙋‍♂️ About Me:
 
@@ -14,21 +15,18 @@
 - 🧠 A "can-do" mindset, autodidact, hard learner of new and unfamiliar subjects and fields.
 
 - 👋 Above all - a friendly, responsible and creative team player.
- 
----
 
+---
 ### 📬 Feel free to contact me:
 
 <p>
 Feel free to connect through this profile, via email or
 through the social networks:
 </p>
-
 <p>
   <a href="https://www.linkedin.com/in/yarin-bar-725a6120a/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:yarinbar7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
-
 
 ---
 
@@ -45,6 +43,7 @@ through the social networks:
 ---
 
 ### 🏅 GitHub Analytics:
+
 <br />
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yarin96&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yarin96&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yarin96&theme=nord_dark) |
@@ -54,9 +53,4 @@ through the social networks:
 | :-: | :-: |
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yarin96" alt="Yarin96" />
-  <br/>
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150" alt="Super Mario Coder"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=Yarin96" alt="Yarin96" />
