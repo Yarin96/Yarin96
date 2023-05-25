@@ -10,11 +10,11 @@
 
 - 🎓 3rd Year Computer Science Student.
 
-- 💯 Highly motivated person with emphasis to web development and software engineering.
+- 💯 Highly motivated individual with a focus on web development and software engineering.
 
-- 🧠 A "can-do" mindset, autodidact, hard learner of new and unfamiliar subjects and fields.
+- 🧠 Can-do mindset, self-taught learner of new and unfamiliar topics and areas.
 
-- 👋 Above all - a friendly, responsible and creative team player.
+- 👋 Above all, a friendly, responsible and creative team player.
 
 ---
 ### 📬 Feel free to contact me:
