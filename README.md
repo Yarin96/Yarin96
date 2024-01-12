@@ -8,9 +8,9 @@
 
 ### 🙋‍♂️ About Me:
 
-- 🎓 B.Sc. in Computer Science, looking for a position as a Fullstack Developer.
+- 🎓 B.Sc. in Computer Science.
 
-- 💯 Highly motivated individual with a focus on web development and software engineering.
+- 💯 Highly motivated individual with a focus on automation engineering, web development and software development.
 
 - 🧠 Can-do mindset, self-taught learner of new and unfamiliar topics and areas.
 
