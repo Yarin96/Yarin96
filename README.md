@@ -2,8 +2,6 @@
   <h2>Thank you for visiting my GitHub Page!</h2>
 </div>
 
-<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="450" height="260" />
-
 ### 🚀 About Me:
 
 I am an **AI & Automation Engineer** with a solid foundation in **full-stack web development**. My professional passion lies in leveraging technology—especially AI—to build smart, efficient, and automated solutions.
